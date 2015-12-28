@@ -1,2 +1,5 @@
 <?php
-echo 'aaa';
+class Aaa{
+    function a(){}
+    function b(){}
+}
